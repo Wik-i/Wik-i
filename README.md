@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: 
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Java
-- 💬 Ask me about anything
+- 🌱 I’m currently working with Java and flink dealing with big data problems like monitoring logs etc.
+- 💬 Ask me about anything. welcome for communicating.
